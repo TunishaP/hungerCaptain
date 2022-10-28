@@ -5,8 +5,8 @@ This is an online food menu service of a restaurant. These days, when you visit 
 
 ```
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://hungerCaptain-frontend.tunishapradhan.repl.co) here!!
-Check out [API LIVE DEMO](https://hungercaptain-backend.tunishapradhan.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](https://Tfrontend.tunishapradhan.repl.co) here!!
+Check out [API LIVE DEMO](https://backend.tunishapradhan.repl.co) here!!
 
 ## Tech used
 
